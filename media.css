@@ -1,0 +1,731 @@
+@media (max-width: 575.98px) {
+    br {
+        display: none;
+    }
+
+    #banner {
+        height: 1000px;
+    }
+
+    #banner_left_box {
+        height: 109px;
+        width: 262px;
+        margin: 150px auto;
+    }
+
+    #banner_img {
+        width: 200px;
+        height: 200px;
+        left: 27px;
+        top: 40px;
+    }
+
+    #banner_bg {
+        width: 255px;
+        height: 280px;
+    }
+
+    #banner_head1 {
+        padding-top: 40px;
+        font-size: 86px;
+    }
+
+    #banner_col2 {
+        height: 591px;
+        background-position: right bottom;
+        background-size: 57%;
+        background-position-y: 302px;
+    }
+
+    /* class section */
+    #class {
+        height: auto;
+        background-size: 56% 70%, 100% 100%;
+    }
+
+    .class_img_box {
+        max-width: 254px;
+        height: 255px;
+    }
+
+    .class_img_box {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .class_card_img2 {
+        width: 85%;
+        z-index: 1;
+        position: absolute;
+        top: 20px;
+        left: 20px;
+    }
+
+    #class_card3_box {
+        justify-content: center;
+    }
+
+    #class_head1 {
+        font-size: 64px;
+    }
+
+    .class_card {
+        width: 391px;
+        height: auto;
+    }
+
+    /* stats section */
+    #stats {
+        height: auto;
+    }
+
+    #stats_col1 {
+        justify-content: center;
+    }
+
+    #stats_col2 {
+        justify-content: center;
+    }
+
+    #stats_col3 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .stats_card {
+        width: 251px;
+        height: 251px;
+        margin-bottom: 30px;
+    }
+
+    .stats_card_head {
+        padding-top: 45px;
+    }
+
+    /*-- instructor section --*/
+    #instructor {
+        height: auto;
+    }
+
+    #instructor_right {
+        text-align: center;
+    }
+
+    #instructor_right_col {
+        height: auto;
+    }
+
+    #instructor_head1 {
+        padding-left: 0;
+        font-size: 45px;
+        padding-top: 133px;
+    }
+
+    #instructor_para1 {
+        padding-left: 0;
+    }
+
+    #instructor_button {
+        margin-left: 0;
+        width: 273px;
+        margin-bottom: 50px;
+    }
+
+    #instructor_left img {
+        height: 682px;
+    }
+
+    /* experience section */
+    #experience {
+        height: auto;
+    }
+
+    #experience_right {
+        text-align: center;
+    }
+
+    #experience_head1 {
+        padding-left: 0;
+        font-size: 45px;
+        padding-top: 108px;
+    }
+
+    #experience_para1 {
+        padding-left: 0;
+    }
+
+    #experience_button {
+        margin-left: 0;
+        width: 260px;
+    }
+
+    #experience_col2 {
+        text-align: center;
+        height: auto;
+    }
+
+    #experience_img {
+        height: auto;
+    }
+
+    #experience_button {
+        margin-bottom: 50px;
+    }
+
+    /* pricing section */
+    #pricing {
+        height: auto;
+    }
+
+    #pricing_col1 {
+        justify-content: center;
+    }
+
+    #pricing_col3 {
+        justify-content: center;
+    }
+
+    .pricing_card {
+        width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .pricing_button {
+        width: 240px;
+        margin-bottom: 10px;
+    }
+
+    /* trainer section */
+    #trainer {
+        height: auto;
+    }
+
+    #trainer_img {
+        width: 266px;
+        height: 266px;
+    }
+
+    #trainer_img2 {
+        width: 200px;
+        top: 32px;
+    }
+
+    #trainer_head1 {
+        font-size: 40px;
+    }
+
+    #trainer_head2 {
+        font-size: 40px;
+    }
+
+    /* email section */
+    #email {
+        height: auto;
+    }
+
+    #email_head1 {
+        font-size: 60px;
+    }
+
+    #email_input {
+        width: 177px;
+        height: 43px;
+        font-size: 16px;
+    }
+
+    #email_button {
+        width: 100px;
+        height: 43px;
+        font-size: 16px;
+        margin-left: -36px;
+    }
+
+    form {
+        margin-bottom: 50px;
+    }
+
+    /* footer section */
+    #footer {
+        height: auto;
+    }
+
+    #footer_head1 {
+        padding-left: 0;
+        padding-top: 108px;
+    }
+
+    #footer_para1 {
+        padding-left: 0;
+    }
+
+    #footer_head2 {
+        padding-top: 39px;
+    }
+
+    #footer_head3 {
+        padding-top: 42px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    br {
+        display: none;
+    }
+
+    #banner {
+        height: 1000px;
+    }
+
+    #banner_left_box {
+        height: 109px;
+        width: 313px;
+        margin: 150px auto;
+    }
+
+    #banner_img {
+        width: 225px;
+        height: 225px;
+        left: 43px;
+        top: 63px;
+    }
+
+    #banner_bg {
+        width: 313px;
+        height: 340px;
+    }
+
+    #banner_head1 {
+        padding-top: 84px;
+        font-size: 86px;
+    }
+
+    #banner_col2 {
+        height: 591px;
+        background-position: right bottom;
+        background-size: 57%;
+        background-position-y: 302px;
+    }
+
+    /* class section */
+    #class {
+        height: auto;
+        background-size: 56% 70%, 100% 100%;
+    }
+
+    .class_img_box {
+        max-width: 254px;
+        height: 255px;
+    }
+
+    .class_img_box {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .class_card_img2 {
+        width: 85%;
+        z-index: 1;
+        position: absolute;
+        top: 20px;
+        left: 20px;
+    }
+
+    #class_card1_box {
+        justify-content: center;
+    }
+
+    #class_card3_box {
+        justify-content: center;
+    }
+
+    #class_head1 {
+        font-size: 64px;
+    }
+
+    .class_card {
+        width: 391px;
+        height: auto;
+    }
+
+    /* stats section */
+    #stats {
+        height: auto;
+    }
+
+    #stats_col1 {
+        justify-content: center;
+    }
+
+    #stats_col2 {
+        justify-content: center;
+    }
+
+    #stats_col3 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .stats_card {
+        width: 251px;
+        height: 251px;
+        margin-bottom: 30px;
+    }
+
+    .stats_card_head {
+        padding-top: 45px;
+    }
+
+    /*-- instructor section --*/
+    #instructor {
+        height: auto;
+    }
+
+    #instructor_right {
+        text-align: center;
+    }
+
+    #instructor_right_col {
+        height: auto;
+    }
+
+    #instructor_head1 {
+        padding-left: 0;
+        font-size: 45px;
+        padding-top: 133px;
+    }
+
+    #instructor_para1 {
+        padding-left: 0;
+    }
+
+    #instructor_button {
+        margin-left: 0;
+        width: 273px;
+        margin-bottom: 50px;
+    }
+
+    #instructor_left img {
+        height: 682px;
+    }
+
+    /* experience section */
+    #experience {
+        height: auto;
+    }
+
+    #experience_right {
+        text-align: center;
+    }
+
+    #experience_head1 {
+        padding-left: 0;
+        font-size: 45px;
+        padding-top: 108px;
+    }
+
+    #experience_para1 {
+        padding-left: 0;
+    }
+
+    #experience_button {
+        margin-left: 0;
+        width: 260px;
+    }
+
+    #experience_col2 {
+        text-align: center;
+        height: auto;
+    }
+
+    #experience_img {
+        height: auto;
+    }
+
+    #experience_button {
+        margin-bottom: 50px;
+    }
+
+    /* pricing section */
+    #pricing {
+        height: auto;
+    }
+
+    #pricing_col1 {
+        justify-content: center;
+    }
+
+    #pricing_col3 {
+        justify-content: center;
+    }
+
+    .pricing_card {
+        width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .pricing_button {
+        width: 240px;
+        margin-bottom: 10px;
+    }
+
+    /* trainer section */
+    #trainer {
+        height: auto;
+    }
+
+    #trainer_img {
+        width: 266px;
+        height: 266px;
+    }
+
+    #trainer_img2 {
+        width: 200px;
+        top: 32px;
+    }
+
+    #trainer_head1 {
+        font-size: 40px;
+    }
+
+    #trainer_head2 {
+        font-size: 40px;
+    }
+
+    /* email section */
+    #email {
+        height: auto;
+    }
+
+    #email_head1 {
+        font-size: 60px;
+    }
+
+    #email_input {
+        width: 177px;
+        height: 43px;
+        font-size: 16px;
+    }
+
+    #email_button {
+        width: 100px;
+        height: 43px;
+        font-size: 16px;
+        margin-left: -36px;
+    }
+
+    form {
+        margin-bottom: 50px;
+    }
+
+    /* footer section */
+    #footer {
+        height: auto;
+    }
+
+    #footer_head1 {
+        padding-left: 0;
+        padding-top: 108px;
+    }
+
+    #footer_para1 {
+        padding-left: 0;
+    }
+
+    #footer_head2 {
+        padding-top: 39px;
+    }
+
+    #footer_head3 {
+        padding-top: 42px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    br {
+        display: none;
+    }
+
+    #class {
+        height: auto;
+    }
+
+    #experience_head1 {
+        font-size: 47px;
+    }
+
+    #experience_button {
+        width: 256px;
+    }
+
+    .pricing_card {
+        width: 262px;
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .pricing_button {
+        width: 210px;
+        margin-bottom: 10px;
+    }
+
+    #pricing {
+        height: auto;
+        background-image: unset;
+    }
+
+    #footer_head1 {
+        padding-left: 0;
+    }
+
+    #footer_para1 {
+        padding-left: 0;
+    }
+
+    #footer {
+        height: auto;
+    }
+
+    .footer_head_demo {
+        padding-top: 80px !important;
+    }
+
+    #footer_head3 {
+        padding-top: 80px;
+    }
+
+    #instructor_head1 {
+        font-size: 49px;
+        padding-left: 61px;
+    }
+
+    #instructor_para1 {
+        padding-left: 61px;
+    }
+
+    #instructor_button {
+        width: 270px;
+        margin-left: 61px;
+    }
+
+    .stats_card {
+        width: 233px;
+        height: 233px;
+    }
+
+    .stats_card_head {
+        padding-top: 35px;
+    }
+
+    .stats_card_para {
+        font-size: 23.49px;
+    }
+
+    #banner_left_box {
+        margin-left: 0;
+        width: 429px;
+        margin-top: 179px;
+        height: 432px;
+    }
+
+    #banner_img {
+        width: 237px;
+        top: 94px;
+        left: 95px;
+    }
+
+    #banner_head1 {
+        padding-top: 163px;
+    }
+
+    #banner {
+        height: 675px;
+    }
+
+    #banner_col2 {
+        background-position: 101% -416%;
+    }
+
+    #class {
+        background-size: 48% 77%, 100% 100%;
+        background-position-y: -167%;
+    }
+
+    .class_card_img2 {
+        top: 25px;
+        left: 27px;
+    }
+
+    .class_img_box {
+        height: 234px;
+    }
+
+    .class_card_head {
+        font-size: 25.95px;
+        padding-top: 55px;
+    }
+
+    #stats {
+        height: auto;
+    }
+
+    .stats_card {
+        margin-bottom: 40px;
+    }
+
+    #experience_head1 {
+        padding-top: 103px;
+    }
+
+    #experience {
+        height: 826px;
+    }
+
+    #experience_col2 {
+        height: 826px;
+        background-size: 80% 80%;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    #experience_head1{
+        font-size: 68px;
+    }
+    #footer{
+        height: auto;
+    }
+    .stats_card {
+        width: 300px;
+        height: 300px;
+    }
+
+    #banner_left_box {
+        margin-left: 0;
+        width: 429px;
+        margin-top: 179px;
+        height: 432px;
+        margin-left: 40px;
+    }
+
+    #banner_img {
+        width: 237px;
+        top: 94px;
+        left: 95px;
+    }
+
+    #banner_head1 {
+        padding-top: 203px;
+    }
+
+    #banner {
+        height: 675px;
+    }
+
+    #banner_col2 {
+        background-position: 101% -416%;
+    }
+    #banner_para {
+        font-size: 19.71px;
+    }
+}
